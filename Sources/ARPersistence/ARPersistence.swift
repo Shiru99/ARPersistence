@@ -14,7 +14,7 @@ public class ARPersistence {
         }
     }()
     
-    func save(_ uiView: ARView) {
+    public func save(_ uiView: ARView) {
         
         var modelEntityDetailsDict: [String: [String]] = [:]
         
@@ -67,7 +67,7 @@ public class ARPersistence {
         }
     }
     
-    func load(_ uiView: ARView) {
+    public func load(_ uiView: ARView) {
         
         // Load AR Anchors
         let anchorDataURL = self.worldMapDir.appendingPathComponent("ARExperience.map")
