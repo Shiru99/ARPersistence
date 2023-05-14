@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "arpersistence",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Shiru99/ARPersistence.git",
+      "state" : {
+        "revision" : "e1fcbc7299b94e778703414a7a82de838a776d11",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
