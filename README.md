@@ -12,6 +12,10 @@ The above [example](https://youtu.be/RbT2sJ1q-Mc) demonstrates the usage of ARPe
 - Store AR world maps and model entity details in files.
 - Retrieve and apply saved data to restore the AR experience.
 
+## Functionalities
+
+Detailed [functionalities](https://shiru99.medium.com/ar-persistence-with-arkit-realitykit-in-details-ar-with-ios-part-viii-28911d5cac5b)
+
 ## Requirements
 
 - iOS 15.0+
